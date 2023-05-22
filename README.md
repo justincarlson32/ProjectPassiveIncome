@@ -1,4 +1,5 @@
 # Trading Bot
+![Screenshot 2023-05-21 185620](https://github.com/justincarlson32/ProjectPassiveIncome/assets/41803725/9dee7b8e-9040-47ab-b09a-62ecd390ae09)
 
 
 ## Description of Project
